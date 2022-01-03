@@ -41,7 +41,7 @@ class Home extends Component {
                                             tintColor: focused ? text : text2
                                         }}
                                     /> */}
-                                    <Text style={{ top: 5, color: focused ? '#000' : '#3434ff', fontSize: 14 }}>
+                                    <Text style={{ top: 5, color: focused ? '#f34' : '#000', fontSize: 14 }}>
                                         ONE
                                     </Text>
                                 </View>
@@ -61,7 +61,7 @@ class Home extends Component {
                                             tintColor: focused ? text : text2
                                         }}
                                     /> */}
-                                    <Text style={{ top: 5, color: focused ? '#000' : '#3434ff', fontSize: 14 }}>
+                                    <Text style={{ top: 5, color: focused ? '#f34' : '#000', fontSize: 14 }}>
                                         TWO
                                     </Text>
                                 </View>
@@ -81,7 +81,7 @@ class Home extends Component {
                                             tintColor: focused ? text : text2
                                         }}
                                     /> */}
-                                    <Text style={{ top: 5, color: focused ? '#000' : '#3434ff', fontSize: 14 }}>
+                                    <Text style={{ top: 5, color: focused ? '#f34' : '#000', fontSize: 14 }}>
                                         THREE
                                     </Text>
                                 </View>
